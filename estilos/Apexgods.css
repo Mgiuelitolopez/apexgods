@@ -1,0 +1,31 @@
+h1
+{
+    font-size: 120px;
+    background-color: red;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.fondoTitulo {
+
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 95px;
+    color: white;
+    background-size: cover;
+    background-position: center;
+    height: 400px; 
+    background: url("../Imagen/qarixtl1lkh5y19zaiyn.jpg");
+
+    color: darkblue
+    
+}
+
+h3
+.texto
+{
+    font-size: 30px;
+    color:darkslategray
+}
