@@ -5,6 +5,8 @@ h1
     display:flex;
     justify-content: center;
     align-items: center;
+
+
 }
 
 .fondoTitulo {
@@ -20,12 +22,42 @@ h1
     background: url("../Imagen/qarixtl1lkh5y19zaiyn.jpg");
 
     color: darkblue
-    
+
+}
+.texto
+{ 
+
+}
+.texto p
+{ 
+    padding-bottom: 10px;
+    font-size: 16px;
+
+}
+.columna
+{ 
+    width: 200px;
+    background: 
+        border: solid black 2px; 
+    margin: 10px;
+    height: 600px;
+    font-size: 16px;
+
+
+
+
+
+}
+.panelUno
+{
+    border: solid red 2px;
+    display: flex;
+    justify-content: space-around;
+    padding: 20px;
+    flex-wrap: wrap;
+
+
+    background: url("../Imagen/A1.jpg")
 }
 
-h3
-.texto
-{
-    font-size: 30px;
-    color:darkslategray
-}
+
